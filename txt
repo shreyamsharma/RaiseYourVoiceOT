@@ -1,0 +1,66 @@
+
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us section-bg">
+      <div class="container-fluid" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-5 align-items-stretch video-box" style='background-image: url("assets/img/why-us.jpg");' data-aos="zoom-in" data-aos-delay="100">
+            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+          </div>
+
+          <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch">
+
+            <div class="content">
+              <h3> <strong>What is Raise Your Voice?</strong></h3>
+              <p>
+                Raise Your Voice is a nonpartisan project aimed at connecting young
+                 Canadians to the country’s current politics and politicians. Our 
+                 goal is to unite the voice of youth across Canada and to empower
+                  the next generation of activists to disrupt the status quo on 
+                  parliament hill. Over the course of our first year (2020-2021),
+                   we launched a three part workshop called creating your political
+                    handbook to teach youth the basics of political literacy and how 
+                    to start their own personal activism. 
+              </p>
+            </div>
+          
+
+            <div class="accordion-list">
+              <ul>
+                <li>
+                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> What is Raise Your Voice's Mission? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
+                    <p>
+                      Raise Your Voice's mission is to empower youth to step up, speak out, and raise your voice.
+                    </p>
+                  </div>
+                </li>
+
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> What are Raise Your Voice's Team Values? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
+                    <p>
+                      Raise your voice is committed to using our platform to support peace by uplifting youth through education and activism. One of the principles we strive towards is remaining non-partisan and unbiased in our delivery. We are committed to taking an intersectionality approach to all our projects as we strive to increase equity and inclusion. Furthermore, Raise your voice aims to continue important conversations while remaining accountable and transparent.
+                    </p>
+                  </div>
+                </li>
+
+                <li>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> What are Raise Your Voice's Future Goals? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
+                    <p>
+                      We aim to continue our goal by launching an e-book in order to teach more youth the power and impact of raising your voice. Our current initiatives include partnering with local community members in order to host more workshops and future campaigns aimed at empowering local youth. We plan to expand our operations from Ontario Tech University into the surrounding Durham Region areas.
+                    </p>
+                  </div>
+                </li>
+
+              </ul>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Why Us Section -->
